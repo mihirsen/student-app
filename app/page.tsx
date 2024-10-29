@@ -5,7 +5,7 @@ import QuickStatisticsDisplay from "./components/QuickStaticsDisplay";
 import QuickStatistics from "./components/QuickStatistics";
 import ComparisonGraph from "./components/ComparisonGraph";
 import SyllabuswiseAnalysis from "./components/SyllabuswiseAnalysis";
-import SkillTest from "./components/skill-test";
+import SkillTest from "./components/Skill-test";
 import QuestionAnalysis from "./components/QuestionAnaysis";
 import { useState } from "react";
 
